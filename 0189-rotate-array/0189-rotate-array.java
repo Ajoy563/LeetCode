@@ -13,8 +13,8 @@ class Solution {
 
         //[1,2,3,4,5,6,7]
         // ------- -----
-        // if(k % n == 0)
-        //     return;
+        if(k % n == 0)
+            return;
 
         k = k % n;
         rev(nums, 0, n-1); //7 6 5 4 3 2 1
