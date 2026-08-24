@@ -10,12 +10,13 @@ class Solution {
             set2.add(num);
         }
 
-        int res[] = new int[set1.size()];
+        int n = Math.min(set1.size(), set2.size());
+        int res[] = new int[n];
 
         int k = 0;
-        for(int  n : set1) {
-            if(set2.contains(n)) {
-                res[k] = n;
+        for(int  num : set1) {
+            if(set2.contains(num)) {
+                res[k] = num;
                 k++;
             }
         }
