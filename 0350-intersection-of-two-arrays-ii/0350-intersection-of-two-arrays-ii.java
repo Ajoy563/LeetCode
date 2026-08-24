@@ -5,7 +5,7 @@ class Solution {
             map.put(n, map.getOrDefault(n, 0) + 1);
         }
 
-        int res[] = new int[nums1.length];
+        int res[] = new int[Math.min(nums1.length, nums2.length)];
         int k = 0;
         for(int n : nums2) {
             if(map.containsKey(n)) {
