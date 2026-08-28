@@ -10,7 +10,6 @@ class Solution {
                 cntVal++;
             }
         }
-        //nums = Arrays.copyOfRange(nums, 0, cntVal);
         return nums.length - cntVal;
     }
 }
