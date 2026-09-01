@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Ajoy563/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ajoy563/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/Ajoy563/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0905-sort-array-by-parity](https://github.com/Ajoy563/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ajoy563/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/Ajoy563/LeetCode/tree/master/1089-duplicate-zeros) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Ajoy563/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Ajoy563/LeetCode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Ajoy563/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ajoy563/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0905-sort-array-by-parity](https://github.com/Ajoy563/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ajoy563/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Ajoy563/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ajoy563/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Ajoy563/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Ajoy563/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ajoy563/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0905-sort-array-by-parity](https://github.com/Ajoy563/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ajoy563/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/Ajoy563/LeetCode/tree/master/1089-duplicate-zeros) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Ajoy563/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
