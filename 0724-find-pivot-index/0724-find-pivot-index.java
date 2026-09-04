@@ -13,7 +13,6 @@ class Solution {
                 rightSum -= nums[i];
                 leftSum += nums[i-1];
             }
-            //rightSum -= nums[i];
             if(leftSum == rightSum) {
                 return i;
             }
