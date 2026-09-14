@@ -144,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Ajoy563/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/Ajoy563/LeetCode/tree/master/0724-find-pivot-index) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Ajoy563/LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
