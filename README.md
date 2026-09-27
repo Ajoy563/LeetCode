@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Ajoy563/LeetCode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Ajoy563/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Ajoy563/LeetCode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Ajoy563/LeetCode/tree/master/0189-rotate-array) |
@@ -161,4 +162,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0197-rising-temperature](https://github.com/Ajoy563/LeetCode/tree/master/0197-rising-temperature) |
 | [0262-trips-and-users](https://github.com/Ajoy563/LeetCode/tree/master/0262-trips-and-users) |
 | [0511-game-play-analysis-i](https://github.com/Ajoy563/LeetCode/tree/master/0511-game-play-analysis-i) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Ajoy563/LeetCode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Ajoy563/LeetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
