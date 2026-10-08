@@ -18,7 +18,7 @@ class Solution {
 
         k = k % n;
         rev(nums, 0, n-1); //7 6 5 4 3 2 1
-        rev(nums, 0, k-1);
-        rev(nums, k, n-1);
+        rev(nums, 0, k-1); //5 6 7 4 3 2 1
+        rev(nums, k, n-1); //5 6 7 1 2 3 4
     }
 }
