@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Ajoy563/LeetCode/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/Ajoy563/LeetCode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Ajoy563/LeetCode/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/Ajoy563/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Ajoy563/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Ajoy563/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Ajoy563/LeetCode/tree/master/0118-pascals-triangle) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Ajoy563/LeetCode/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ajoy563/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sorting
 |  |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Ajoy563/LeetCode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Ajoy563/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ajoy563/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ajoy563/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
