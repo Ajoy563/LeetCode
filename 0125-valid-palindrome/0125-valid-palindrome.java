@@ -1,17 +1,46 @@
 class Solution {
-    public boolean isPalindrome(String s) {
-        StringBuilder str = new StringBuilder("");
-        for(int i=0; i<s.length(); i++) {
-            char ch = Character.toLowerCase(s.charAt(i));
-            if((ch >= 'a' && ch <= 'z') || (ch >= '0' && ch <= '9')) {
-                str.append(ch);
-            }
-        }
+    // public boolean isPalindrome(String s) {
+    //     StringBuilder str = new StringBuilder("");
+    //     for(int i=0; i<s.length(); i++) {
+    //         char ch = Character.toLowerCase(s.charAt(i));
+    //         if((ch >= 'a' && ch <= 'z') || (ch >= '0' && ch <= '9')) {
+    //             str.append(ch);
+    //         }
+    //     }
 
-        int l = 0, r = str.length() - 1;
+    //     int l = 0, r = str.length() - 1;
+    //     while(l < r) {
+    //         if(str.charAt(l) != str.charAt(r)) return false;
+    //         l++; r--; 
+    //     }
+    //     return true;
+    // }
+
+    public boolean isAlphaNumeric(char ch) {
+        if((ch >= 'a' && ch <= 'z') || (ch >= '0' && ch <= '9')) {
+            return true;
+        }
+        return false;
+    }
+    public boolean isPalindrome(String s) {
+        int l = 0, r = s.length() - 1;
         while(l < r) {
-            if(str.charAt(l) != str.charAt(r)) return false;
-            l++; r--; 
+            char start = Character.toLowerCase(s.charAt(l));
+            char end = Character.toLowerCase(s.charAt(r));
+
+            if(!isAlphaNumeric(start)) {
+                l++;
+                continue;
+            }
+            if(!isAlphaNumeric(end)) {
+                r--;
+                continue;
+            }
+
+            if(start != end){
+                return false;
+            }
+            l++; r--;
         }
         return true;
     }
